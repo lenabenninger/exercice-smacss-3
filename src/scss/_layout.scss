@@ -1,0 +1,26 @@
+.l-header {
+  background: url(../images/sumidero_canyon.png),
+    lightgray 0px 0px / 100% 100% no-repeat;
+  padding: 113px 60px 143px;
+}
+
+.l-main {
+  background: url(../images/pattern.png), lightgray 0px 0px / 100% 100% repeat;
+  padding-bottom: 60px;
+}
+
+.l-title-section {
+  box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.2) inset;
+  padding: 10px 0;
+  margin-bottom: 30px;
+}
+
+.l-cards {
+  margin: 0 15px;
+}
+
+.l-footer {
+  background: #fff;
+  border-top: 10px solid #ffb500;
+  padding: 35px 15px 35px;
+}

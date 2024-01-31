@@ -13,7 +13,7 @@ npm install bootstrap
 Inclure la SCSS depuis le fichier main.scss
 
 ```scss
-@import 'bootstrap/scss/bootstrap-grid';
+@import "bootstrap/scss/bootstrap-grid";
 ```
 
 Utilisez [la maquette Figma](https://www.figma.com/file/6YQq0QZ6Z7Z7Z7Z7Z7Z7Z7/Exercice-SMACSS-3) pour récupérer les bonnes informations.
